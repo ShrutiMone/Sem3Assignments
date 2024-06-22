@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1714274060 source:c:\users\shruti mone\onedrive\desktop\ddahouseusingglut\main.cpp
+	<GL/freeglut.h>
+	<GL/gl.h>
+	<math.h>
+
+1714273723 c:\users\shruti mone\downloads\freeglut-mingw-3.0.0-1.mp\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1714273723 c:\users\shruti mone\downloads\freeglut-mingw-3.0.0-1.mp\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1714273723 c:\users\shruti mone\downloads\freeglut-mingw-3.0.0-1.mp\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
