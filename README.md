@@ -1,2 +1,2 @@
-# Sem3Assignments
-Sem3 assignments
+# Sem4Assignments
+Sem4 IT assignments
